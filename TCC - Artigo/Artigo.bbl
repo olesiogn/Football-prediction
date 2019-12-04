@@ -1,0 +1,189 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Amaral Jose Maria Celestino de~Lima 2014]{Amaral2014}
+\abntrefinfo{Amaral Jose Maria Celestino de~Lima}{AMARAL JOSE MARIA CELESTINO
+  DE~LIMA}{2014}
+{AMARAL JOSE MARIA CELESTINO DE~LIMA, L. E. S. d.~O. Cesar~do. \emph{Rede
+  Neural Supervisionada Multicamadas - Árvore de decisão plataforma WEKA}.
+  2014.
+Dispon{\'\i}vel em:
+  \url{https://pt.slideshare.net/cesardoamatal/a-rede-neural-supervisionada-chamada-perceptron-multicamadas}.
+  Acesso em: 26 nov 2019.}
+
+\bibitem[Boser, Guyon e Vapnik 1992]{Boser1992}
+\abntrefinfo{Boser, Guyon e Vapnik}{BOSER; GUYON; VAPNIK}{1992}
+{BOSER, B.~E.; GUYON, I.~M.; VAPNIK, V.~N. A training algorithm for optimal
+  margin classifiers. In:  \emph{Proceedings of the Fifth Annual Workshop on
+  Computational Learning Theory}. New York, NY, USA: ACM, 1992.  (COLT '92), p.
+  144--152.
+ISBN 0-89791-497-X. Dispon{\'\i}vel em:
+  \url{http://doi.acm.org/10.1145/130385.130401}.}
+
+\bibitem[Breiman 2001]{Breiman2001}
+\abntrefinfo{Breiman}{BREIMAN}{2001}
+{BREIMAN, L.
+\emph{Machine Learning}, Springer Nature, v.~45, n.~1, p. 5--32, 2001.}
+
+\bibitem[Brooks, Kerr e Guttag 2016]{Brooks2016}
+\abntrefinfo{Brooks, Kerr e Guttag}{BROOKS; KERR; GUTTAG}{2016}
+{BROOKS, J.; KERR, M.; GUTTAG, J. Using machine learning to draw inferences
+  from pass location data in soccer.
+\emph{Statistical Analysis and Data Mining: The {ASA} Data Science Journal},
+  Wiley, v.~9, n.~5, p. 338--349, jun 2016.}
+
+\bibitem[Cabral 2013]{Isolete2013}
+\abntrefinfo{Cabral}{CABRAL}{2013}
+{CABRAL, C. I.~S.
+\emph{Aplicação do Modelo de Regressão Logística num Estudo de Mercado}.
+Disserta\c{c}\~{a}o (Mestrado) --- Universidade de Lisboa, 2013.
+Dispon{\'\i}vel em:
+  \url{https://repositorio.ul.pt/bitstream/10451/10671/1/ulfc106455\_tm\_Cleidy\_Cabral.pdf}.}
+
+\bibitem[Caraciolo 2009]{Caraciolo2009}
+\abntrefinfo{Caraciolo}{CARACIOLO}{2009}
+{CARACIOLO, M.~P. \emph{Introdução a Árvores de decisão para
+  classificação e mineração de dados}. 2009.
+Dispon{\'\i}vel em:
+  \url{http://aimotion.blogspot.com/2009/04/artigo-introducao-arvores-de-decisao.html}.
+  Acesso em: 24 nov 2019.}
+
+\bibitem[Constantinou, Fenton e Neil 2013]{Constantinou2013}
+\abntrefinfo{Constantinou, Fenton e Neil}{CONSTANTINOU; FENTON; NEIL}{2013}
+{CONSTANTINOU, A.~C.; FENTON, N.~E.; NEIL, M. Profiting from an inefficient
+  association football gambling market: Prediction, risk and uncertainty using
+  bayesian networks.
+\emph{Knowledge-Based Systems}, Elsevier {BV}, v.~50, p. 60--86, sep 2013.}
+
+\bibitem[DMITRIEVSKY 2018]{DMITRIEVSKY2018}
+\abntrefinfo{DMITRIEVSKY}{DMITRIEVSKY}{2018}
+{DMITRIEVSKY, M. \emph{Floresta de decisão aleatória na aprendizagem por
+  reforço}. 2018.
+Dispon{\'\i}vel em: \url{https://www.mql5.com/pt/articles/3856}. Acesso em: 24
+  nov 2019.}
+
+\bibitem[Duarte, Soares e Teixeira 2015]{Duarte2015}
+\abntrefinfo{Duarte, Soares e Teixeira}{DUARTE; SOARES; TEIXEIRA}{2015}
+{DUARTE, L.~M. da S.; SOARES, C.; TEIXEIRA, J.
+\emph{Previsão de resultados de jogos de futebol}.
+Disserta\c{c}\~{a}o (Mestrado) --- Faculdade da Engenharia da Universidade do
+  Porto, 2015.}
+
+\bibitem[FIFA 2018]{FIFAwatch}
+\abntrefinfo{FIFA}{FIFA}{2018}
+{FIFA. \emph{More than half the world watched record-breaking 2018 World Cup}.
+  2018.
+Dispon{\'\i}vel em:
+  \url{https://www.fifa.com/worldcup/news/more-than-half-the-world-watched-record-breaking-2018-world-cup}.
+  Acesso em: 15 jun 2019.}
+
+\bibitem[FIFA 2019]{FIFAlucro}
+\abntrefinfo{FIFA}{FIFA}{2019}
+{FIFA. \emph{Financial Report 2018}. 2019.
+Dispon{\'\i}vel em:
+  \url{https://resources.fifa.com/image/upload/xzshsoe2ayttyquuxhq0.pdf}.
+  Acesso em: 15 jun 2019.}
+
+\bibitem[Hucaljuk e Rakipović 2011]{Hucaljuk2011}
+\abntrefinfo{Hucaljuk e Rakipović}{HUCALJUK; RAKIPOVIć}{2011}
+{HUCALJUK, J.; RAKIPOVIć, A. Predicting football scores using machine learning
+  techniques.
+\emph{2011 Proceedings of the 34th International Convention MIPRO}, may 2011.}
+
+\bibitem[Igiri 2015]{Igiri2015}
+\abntrefinfo{Igiri}{IGIRI}{2015}
+{IGIRI, C.~P. Support vector machine–based prediction system for a football
+  match result.
+\emph{{IOSR} Journal of Computer Engineering}, v.~17, n.~3, p. 21--26, jun
+  2015.}
+
+\bibitem[learn 2019]{StandardScaler}
+\abntrefinfo{learn}{LEARN}{2019}
+{LEARN scikit. \emph{sklearn.preprocessing.StandardScaler}. 2019.
+Dispon{\'\i}vel em:
+  \url{https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html}.
+  Acesso em: 24 nov 2019.}
+
+\bibitem[Martins et al. 2017]{Martins2017}
+\abntrefinfo{Martins et al.}{MARTINS et al.}{2017}
+{MARTINS, R.~G. et al. Exploring polynomial classifier to predict match results
+  in football championships.
+\emph{Expert Systems with Applications}, Elsevier {BV}, v.~83, p. 79--93, oct
+  2017.}
+
+\bibitem[Owramipur, Eskandarian e Mozneb 2013]{Owramipur2013}
+\abntrefinfo{Owramipur, Eskandarian e Mozneb}{OWRAMIPUR; ESKANDARIAN;
+  MOZNEB}{2013}
+{OWRAMIPUR, F.; ESKANDARIAN, P.; MOZNEB, F.~S. Football result prediction with
+  bayesian network in spanish league-barcelona team.
+\emph{International Journal of Computer Theory and Engineering}, {IACSIT}
+  Press, p. 812--815, 2013.}
+
+\bibitem[Pedregosa et al. 2011]{scikit-learn}
+\abntrefinfo{Pedregosa et al.}{PEDREGOSA et al.}{2011}
+{PEDREGOSA, F. et al. Scikit-learn: Machine learning in {P}ython.
+\emph{Journal of Machine Learning Research}, v.~12, p. 2825--2830, 2011.}
+
+\bibitem[Pendharkar, Khosrowpour e Rodger 2000]{Pendharkar2000}
+\abntrefinfo{Pendharkar, Khosrowpour e Rodger}{PENDHARKAR; KHOSROWPOUR;
+  RODGER}{2000}
+{PENDHARKAR, P.~C.; KHOSROWPOUR, M.; RODGER, J.~A. Application of bayesian
+  network classifiers and data envelopment analysis for mining breast cancer
+  patterns.
+\emph{Journal of Computer Information Systems}, v.~40, n.~4, p. 127--132,
+  2000.}
+
+\bibitem[Perin, Vuillemot e Fekete 2013]{Perin2013}
+\abntrefinfo{Perin, Vuillemot e Fekete}{PERIN; VUILLEMOT; FEKETE}{2013}
+{PERIN, C.; VUILLEMOT, R.; FEKETE, J.-D. {SoccerStories}: A kick-off for visual
+  soccer analysis.
+\emph{{IEEE} Transactions on Visualization and Computer Graphics}, Institute of
+  Eletrical and Electronics Engineers ({IEEE}), v.~19, n.~12, p. 2506--2515,
+  dec 2013.}
+
+\bibitem[PyPI 2019]{PyPIPandas}
+\abntrefinfo{PyPI}{PYPI}{2019}
+{PYPI. \emph{Pandas}. 2019.
+Dispon{\'\i}vel em: \url{https://pypi.org/project/pandas/}. Acesso em: 19 nov
+  2019.}
+
+\bibitem[Sfeir 2011]{Sfeir2011}
+\abntrefinfo{Sfeir}{SFEIR}{2011}
+{SFEIR, M.~N. Laws of the game (adapted from fifa 2010-11).
+\emph{World Literature Today}, v.~85, n.~3, p. 38--39, may 2011.}
+
+\bibitem[Souza 2019]{ValidacaoCruzada}
+\abntrefinfo{Souza}{SOUZA}{2019}
+{SOUZA, A. \emph{Validação Cruzada: Conceito e Exemplo em R}. 2019.
+Dispon{\'\i}vel em:
+  \url{https://pessoalex.wordpress.com/2019/04/16/validacao-cruzada-conceito-e-exemplo-em-r/}.
+  Acesso em: 24 nov 2019.}
+
+\bibitem[Tax e Joustra 2015]{Tax2015}
+\abntrefinfo{Tax e Joustra}{TAX; JOUSTRA}{2015}
+{TAX, N.; JOUSTRA, Y. Predicting the dutch football competition using public
+  data: A machine learning approach.
+Unpublished, 2015.}
+
+\bibitem[Ulmer e Fernandez 2013]{Ulmer2014}
+\abntrefinfo{Ulmer e Fernandez}{ULMER; FERNANDEZ}{2013}
+{ULMER, B.; FERNANDEZ, M.
+\emph{Predicting Soccer Match Results in the English Premier League}.
+Tese (Doutorado) --- Stanford University, 2013.}
+
+\bibitem[Zanini 2007]{Zanini2007}
+\abntrefinfo{Zanini}{ZANINI}{2007}
+{ZANINI, A.
+\emph{Regressão Logística e Redes Neurais Artificiais: Um Problema de
+  Estrutura de Preferência do Consumidor e Classificação de Perfis de
+  Consumo}.
+Disserta\c{c}\~{a}o (Mestrado) --- Faculdade de Economia e Administração da
+  Universidade Federal de Juiz de Fora, 2007.
+Dispon{\'\i}vel em:
+  \url{http://www.ufjf.br/poseconomia/files/2010/01/td\_007\_20071.pdf}.}
+
+\end{thebibliography}

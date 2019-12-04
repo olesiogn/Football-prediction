@@ -1,0 +1,736 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.9)  26 NOV 2019 22:57
+entering extended mode
+**./Artigo.tex
+(Artigo.tex
+LaTeX2e <2019-10-01> patch level 1
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty
+"
+Package: babel 2019/10/15 3.35 The Babel package
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/10/15 3.35 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-portuges\port
+uges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/10/15 3.35 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.de
+f")
+\bbl@dirlevel=\count89
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2019/10/08 v1.3c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.s
+ty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty"
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/10/24 v1.0a TeX engine tests
+)) ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.s
+ty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifxetex.sty
+"
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks17
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.c
+fg"))
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace.s
+ty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\indentfirst.s
+ty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sectsty\sectsty.sty
+"
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.s
+ty"
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+ ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen114
+\ar@mcellbox=\box27
+\extrarowheight=\dimen115
+\NC@list=\toks18
+\extratabsurround=\skip43
+\backup@length=\skip44
+\ar@cellbox=\box28
+)
+\everycr=\toks19
+\minrowclearance=\skip45
+)
+\rownum=\count93
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/abntex2\abntex2cite
+.sty"
+Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count94
+\calc@Bcount=\count95
+\calc@Adimen=\dimen116
+\calc@Bdimen=\dimen117
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count96
+\calc@Cskip=\skip48
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/abntex2\abntex2abre
+v.sty") ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty
+"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\minimumbiblabelwidth=\skip49
+\ABCIauxlen=\skip50
+\c@ABCIaux=\count97
+\c@ABCImax=\count98
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/relsize\relsize.sty
+"
+Package: relsize 2013/03/29 ver 4.1
+)
+\biblabelsep=\skip51
+LaTeX Info: Redefining \newblock on input line 591.
+LaTeX Info: Redefining \cite on input line 618.
+\ABCItoken=\toks20
+) (Artigo.aux
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+)
+\openout1 = `Artigo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
+4.
+ ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count99
+\scratchdimen=\dimen118
+\scratchbox=\box29
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen119
+\MPnumerator=\count103
+\makeMPintoPDFobject=\count104
+\everyMPtoPDFconversion=\toks22
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
+ase.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
+r.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
+keys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
+sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
+sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
+s.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
+.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.st
+y"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))))
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcm
+ds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(TituloENome.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+) (Resumo.tex) (TituloLinguaEstr.tex) (Abstract.tex)
+(Introducao.tex [1
+
+{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+ [1] [2]) (Desenvolvimento.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+
+Overfull \hbox (9.42563pt too wide) in paragraph at lines 7--8
+[]\OT1/ptm/m/n/12 Lan[]ada por Guido Van Ros-sum em 1991, Python []e uma lin-gu
+a-gem de programa[][]ao din[]amica,
+ []
+
+[3]
+Overfull \hbox (18.0311pt too wide) in paragraph at lines 22--23
+\OT1/ptm/m/n/12 go-rit-mos de classifica[][]ao, re-gress[]ao e agru-pa-mento e 
+tamb[]em pos-sui m[]etodos de pr[]e-processamento
+ []
+
+<imagens/fluxograma.png, id=16, 457.10776pt x 132.495pt>
+File: imagens/fluxograma.png Graphic file (type png)
+<use imagens/fluxograma.png>
+Package pdftex.def Info: imagens/fluxograma.png  used on input line 32.
+(pdftex.def)             Requested size: 455.24411pt x 131.95688pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+[4]
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 4
+2.
+ ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
+ [5 <./imagens/fluxograma.png>] [6] [7] [8] [9] [10]
+<imagens/cod_reg_log.png, id=43, 367.3725pt x 65.64525pt>
+File: imagens/cod_reg_log.png Graphic file (type png)
+<use imagens/cod_reg_log.png>
+Package pdftex.def Info: imagens/cod_reg_log.png  used on input line 161.
+(pdftex.def)             Requested size: 455.24411pt x 81.35216pt.
+<imagens/cod_dec_tree.png, id=44, 375.804pt x 66.84975pt>
+File: imagens/cod_dec_tree.png Graphic file (type png)
+<use imagens/cod_dec_tree.png>
+Package pdftex.def Info: imagens/cod_dec_tree.png  used on input line 172.
+(pdftex.def)             Requested size: 455.24411pt x 80.98532pt.
+<imagens/cotovelo_floresta.png, id=45, 327.02174pt x 92.14426pt>
+File: imagens/cotovelo_floresta.png Graphic file (type png)
+<use imagens/cotovelo_floresta.png>
+Package pdftex.def Info: imagens/cotovelo_floresta.png  used on input line 183.
+
+(pdftex.def)             Requested size: 364.19667pt x 102.62437pt.
+<imagens/cod_rand_for.png, id=46, 420.97275pt x 67.452pt>
+File: imagens/cod_rand_for.png Graphic file (type png)
+<use imagens/cod_rand_for.png>
+Package pdftex.def Info: imagens/cod_rand_for.png  used on input line 192.
+(pdftex.def)             Requested size: 455.24411pt x 72.94278pt.
+<imagens/cotovelo_knn.png, id=47, 314.97675pt x 83.71275pt>
+File: imagens/cotovelo_knn.png Graphic file (type png)
+<use imagens/cotovelo_knn.png>
+Package pdftex.def Info: imagens/cotovelo_knn.png  used on input line 201.
+(pdftex.def)             Requested size: 364.19667pt x 96.79517pt.
+<imagens/cod_knn.png, id=48, 386.04225pt x 66.84975pt>
+File: imagens/cod_knn.png Graphic file (type png)
+<use imagens/cod_knn.png>
+Package pdftex.def Info: imagens/cod_knn.png  used on input line 210.
+(pdftex.def)             Requested size: 455.24411pt x 78.83507pt.
+ [11 <./imagens/cod_reg_log.png> <./imagens/cod_dec_tree.png>] [12 <./imagens/c
+otovelo_floresta.png> <./imagens/cod_rand_for.png> <./imagens/cotovelo_knn.png>
+ <./imagens/cod_knn.png>]
+<imagens/cod_svm.png, id=62, 452.28975pt x 63.23625pt>
+File: imagens/cod_svm.png Graphic file (type png)
+<use imagens/cod_svm.png>
+Package pdftex.def Info: imagens/cod_svm.png  used on input line 222.
+(pdftex.def)             Requested size: 455.24411pt x 63.65002pt.
+<imagens/cod_mlp.png, id=63, 508.90125pt x 74.679pt>
+File: imagens/cod_mlp.png Graphic file (type png)
+<use imagens/cod_mlp.png>
+Package pdftex.def Info: imagens/cod_mlp.png  used on input line 233.
+(pdftex.def)             Requested size: 455.24411pt x 66.80821pt.
+<imagens/resultados/regressao_logistica_pl.png, id=64, 1084.05pt x 361.35pt>
+File: imagens/resultados/regressao_logistica_pl.png Graphic file (type png)
+<use imagens/resultados/regressao_logistica_pl.png>
+Package pdftex.def Info: imagens/resultados/regressao_logistica_pl.png  used on
+ input line 246.
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 246--246
+ [] 
+ []
+
+<imagens/resultados/arvore_decisao_pl.png, id=65, 1084.05pt x 361.35pt>
+File: imagens/resultados/arvore_decisao_pl.png Graphic file (type png)
+<use imagens/resultados/arvore_decisao_pl.png>
+Package pdftex.def Info: imagens/resultados/arvore_decisao_pl.png  used on inpu
+t line 255.
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 255--255
+ [] 
+ []
+
+<imagens/resultados/floresta_aleatoria_pl.png, id=66, 1084.05pt x 361.35pt>
+File: imagens/resultados/floresta_aleatoria_pl.png Graphic file (type png)
+<use imagens/resultados/floresta_aleatoria_pl.png>
+Package pdftex.def Info: imagens/resultados/floresta_aleatoria_pl.png  used on 
+input line 264.
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 264--264
+ [] 
+ []
+
+<imagens/resultados/knn_pl.png, id=67, 1084.05pt x 361.35pt>
+File: imagens/resultados/knn_pl.png Graphic file (type png)
+<use imagens/resultados/knn_pl.png>
+Package pdftex.def Info: imagens/resultados/knn_pl.png  used on input line 273.
+
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 273--273
+ [] 
+ []
+
+<imagens/resultados/svm_pl.png, id=68, 578.16pt x 361.35pt>
+File: imagens/resultados/svm_pl.png Graphic file (type png)
+<use imagens/resultados/svm_pl.png>
+Package pdftex.def Info: imagens/resultados/svm_pl.png  used on input line 282.
+
+(pdftex.def)             Requested size: 318.66948pt x 199.16766pt.
+<imagens/resultados/mlp_pl.png, id=69, 1084.05pt x 361.35pt>
+File: imagens/resultados/mlp_pl.png Graphic file (type png)
+<use imagens/resultados/mlp_pl.png>
+Package pdftex.def Info: imagens/resultados/mlp_pl.png  used on input line 291.
+
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 291--291
+ [] 
+ []
+
+<imagens/resultados/regressao_logistica_sa.png, id=70, 1084.05pt x 361.35pt>
+File: imagens/resultados/regressao_logistica_sa.png Graphic file (type png)
+<use imagens/resultados/regressao_logistica_sa.png>
+Package pdftex.def Info: imagens/resultados/regressao_logistica_sa.png  used on
+ input line 300.
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 300--300
+ [] 
+ []
+
+<imagens/resultados/arvore_decisao_sa.png, id=71, 1084.05pt x 361.35pt>
+File: imagens/resultados/arvore_decisao_sa.png Graphic file (type png)
+<use imagens/resultados/arvore_decisao_sa.png>
+Package pdftex.def Info: imagens/resultados/arvore_decisao_sa.png  used on inpu
+t line 309.
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 309--309
+ [] 
+ []
+
+<imagens/resultados/floresta_aleatoria_sa.png, id=72, 1084.05pt x 361.35pt>
+File: imagens/resultados/floresta_aleatoria_sa.png Graphic file (type png)
+<use imagens/resultados/floresta_aleatoria_sa.png>
+Package pdftex.def Info: imagens/resultados/floresta_aleatoria_sa.png  used on 
+input line 318.
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 318--318
+ [] 
+ []
+
+<imagens/resultados/knn_sa.png, id=73, 1084.05pt x 361.35pt>
+File: imagens/resultados/knn_sa.png Graphic file (type png)
+<use imagens/resultados/knn_sa.png>
+Package pdftex.def Info: imagens/resultados/knn_sa.png  used on input line 327.
+
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 327--327
+ [] 
+ []
+
+<imagens/resultados/svm_sa.png, id=74, 578.16pt x 361.35pt>
+File: imagens/resultados/svm_sa.png Graphic file (type png)
+<use imagens/resultados/svm_sa.png>
+Package pdftex.def Info: imagens/resultados/svm_sa.png  used on input line 336.
+
+(pdftex.def)             Requested size: 318.66948pt x 199.16766pt.
+<imagens/resultados/mlp_sa.png, id=75, 1084.05pt x 361.35pt>
+File: imagens/resultados/mlp_sa.png Graphic file (type png)
+<use imagens/resultados/mlp_sa.png>
+Package pdftex.def Info: imagens/resultados/mlp_sa.png  used on input line 345.
+
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 345--345
+ [] 
+ []
+
+<imagens/resultados/regressao_logistica_br.png, id=76, 1084.05pt x 361.35pt>
+File: imagens/resultados/regressao_logistica_br.png Graphic file (type png)
+<use imagens/resultados/regressao_logistica_br.png>
+Package pdftex.def Info: imagens/resultados/regressao_logistica_br.png  used on
+ input line 354.
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 354--354
+ [] 
+ []
+
+<imagens/resultados/arvore_decisao_br.png, id=77, 1084.05pt x 361.35pt>
+File: imagens/resultados/arvore_decisao_br.png Graphic file (type png)
+<use imagens/resultados/arvore_decisao_br.png>
+Package pdftex.def Info: imagens/resultados/arvore_decisao_br.png  used on inpu
+t line 363.
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 363--363
+ [] 
+ []
+
+<imagens/resultados/floresta_aleatoria_br.png, id=78, 1084.05pt x 361.35pt>
+File: imagens/resultados/floresta_aleatoria_br.png Graphic file (type png)
+<use imagens/resultados/floresta_aleatoria_br.png>
+Package pdftex.def Info: imagens/resultados/floresta_aleatoria_br.png  used on 
+input line 372.
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 372--372
+ [] 
+ []
+
+<imagens/resultados/knn_br.png, id=79, 1084.05pt x 361.35pt>
+File: imagens/resultados/knn_br.png Graphic file (type png)
+<use imagens/resultados/knn_br.png>
+Package pdftex.def Info: imagens/resultados/knn_br.png  used on input line 381.
+
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 381--381
+ [] 
+ []
+
+<imagens/resultados/svm_br.png, id=80, 578.16pt x 361.35pt>
+File: imagens/resultados/svm_br.png Graphic file (type png)
+<use imagens/resultados/svm_br.png>
+Package pdftex.def Info: imagens/resultados/svm_br.png  used on input line 390.
+
+(pdftex.def)             Requested size: 318.66948pt x 199.16766pt.
+<imagens/resultados/mlp_br.png, id=81, 1084.05pt x 361.35pt>
+File: imagens/resultados/mlp_br.png Graphic file (type png)
+<use imagens/resultados/mlp_br.png>
+Package pdftex.def Info: imagens/resultados/mlp_br.png  used on input line 399.
+
+(pdftex.def)             Requested size: 478.00769pt x 159.33633pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 399--399
+ [] 
+ []
+
+[13 <./imagens/cod_svm.png> <./imagens/cod_mlp.png>] [14 <./imagens/resultados/
+regressao_logistica_pl.png> <./imagens/resultados/arvore_decisao_pl.png> <./ima
+gens/resultados/floresta_aleatoria_pl.png>] [15 <./imagens/resultados/knn_pl.pn
+g> <./imagens/resultados/svm_pl.png> <./imagens/resultados/mlp_pl.png>]
+[16 <./imagens/resultados/regressao_logistica_sa.png> <./imagens/resultados/arv
+ore_decisao_sa.png> <./imagens/resultados/floresta_aleatoria_sa.png>] [17 <./im
+agens/resultados/knn_sa.png> <./imagens/resultados/svm_sa.png> <./imagens/resul
+tados/mlp_sa.png>] [18 <./imagens/resultados/regressao_logistica_br.png> <./ima
+gens/resultados/arvore_decisao_br.png> <./imagens/resultados/floresta_aleatoria
+_br.png>] [19 <./imagens/resultados/knn_br.png> <./imagens/resultados/svm_br.pn
+g> <./imagens/resultados/mlp_br.png>]) (Conclusao.tex)
+Overfull \hbox (2.44069pt too wide) in paragraph at lines 32--32
+[]\OT1/ptm/m/n/12 Todos os al-go-rit-mos abor-da-dos neste tra-ba-lho fo-ram im
+-ple-men-ta-dos em Python e encontram-
+ []
+
+[20] (Artigo.bbl [21]) [22] (Artigo.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4273 strings out of 492453
+ 65309 string characters out of 3120543
+ 150540 words of memory out of 3000000
+ 8489 multiletter control sequences out of 15000+200000
+ 21330 words of font info for 43 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 51i,14n,37p,1156b,379s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
+<C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
+mes/utmb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
+/times/utmr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+urw/times/utmri8a.pfb>
+Output written on Artigo.pdf (23 pages, 540722 bytes).
+PDF statistics:
+ 148 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+
